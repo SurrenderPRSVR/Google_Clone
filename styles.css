@@ -1,14 +1,21 @@
 .main{
    margin-top: 100px;
+   text-align: center;
    
 }
 
 .search-input{
     display: block;
     width: 400px;
-    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
+    height: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
 }
 
 .logo-img{
@@ -17,4 +24,18 @@
     margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto;
+}
+
+.btn{
+    padding: 5px;
+    margin-top: 30px;
+    background: #dfe1e5
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 16px;
+    padding-left: 16px;
+    border-radius; 4px;
+    font-size; 14px;
+    
 }
