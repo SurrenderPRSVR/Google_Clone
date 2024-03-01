@@ -1,7 +1,6 @@
 .main{
    margin-top: 100px;
-   text-align: center;
-   
+
 }
 
 .search-input{
@@ -29,6 +28,8 @@
 .btn{
     padding: 5px;
     margin-top: 30px;
+    margin-right: 4px;
+    margin-left: 4px;
     background: #dfe1e5
     border: none;
     padding-top: 8px;
@@ -38,4 +39,10 @@
     border-radius; 4px;
     font-size; 14px;
     
+}
+
+.btn-wrapper{
+    display: flex;
+    justify-content: center;
+
 }
